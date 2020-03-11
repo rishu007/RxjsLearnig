@@ -4,4 +4,4 @@ const answer = of(6 * 9).pipe(mapTo(42));
 answer.subscribe(res=>{
     console.log(res);//comment
 })
-//test comment
+//test comment updated
